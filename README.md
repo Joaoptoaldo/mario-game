@@ -1,6 +1,6 @@
 # mario-game
 
-No jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar obstáculos que aparecem repetidamente na tela. O jogador precisa pressionar a barra de espaço do teclado para fazer o Mario pular e evitar colisões com esses obstáculos. Se Mario colidir com um obstáculo, o jogo termina.
+No jogo do Mario, o objetivo é ajudar o personagem a evitar obstáculos que aparecem repetidamente na tela. O jogador precisa pressionar a barra de espaço do teclado para fazer o Mario pular e evitar colisões com esses obstáculos. Se Mario colidir com um obstáculo, o jogo termina.
 
 
 <h2 dir="auto"></h2>
