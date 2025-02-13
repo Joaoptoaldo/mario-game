@@ -6,11 +6,11 @@ No jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar o
 <h2 dir="auto"></h2>
 
 
-Recursos Aprimorados (ainda em fase de desenvolvimento)
+Recursos aprimorados (ainda em fase de desenvolvimento):
 
 Cenário do jogo: Esse projeto tenta trazer a mesma identidade visual dos jogos clássicos do Super Mario, especialmente dos anos 80 e 90. 
 
-Tela de game over: Quando o jogador perde, agora é exibida uma tela de Game Over, indicando que Mario colidiu com um obstáculo. Isso proporciona um feedback visual adicional ao jogo.
+Tela de game over: Quando o jogador perde, agora é exibida uma tela de "Game Over", indicando que Mario bateu em um obstáculo. 
 
 Botão de reinício: Após o término do jogo, o jogador pode reiniciá-lo facilmente com um novo botão de reinício, sem ter a necessidade de recarregar a página para jogar novamente.
 
